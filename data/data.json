@@ -1,0 +1,105 @@
+{
+    "aboutMe":"MMy name is Ntando Mabuto and I am a student at Life Choices",
+    "projects":[
+        {
+            "name": "Calculator",
+            "github": "https://th.bing.com/th/id/R.7383028831604862ec47fefee3e8f43f?rik=JvqjDCfPocchLg&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f01%2fimages-of-nature-4.jpg&ehk=%2b1REJDS0cEPD0z2IP%2fddCyP9IgFz6xVpp8fyQr78SJ0%3d&risl=&pid=ImgRaw&r=0",
+            "vercel": "https://calculator-lemon-nine.vercel.app/",
+            "description": "I only used css and html for this project and it was my first project",
+            "image": "URL"
+        },
+        {
+            "name": "BMI Calculator",
+            "github": "https://ntandomabuto.github.io/bmi/",
+            "vercel": "https://bmi-phi-livid.vercel.app/",
+            "description": "I used HTML css and Javascript for this project",
+            "image": "URL"
+        },
+        {
+            "name": "Todo List",
+            "github": "https://ntandomabuto.github.io/todo/",
+            "vercel": "https://todo-one-navy.vercel.app/",
+            "description": "I used html,css and javascript for the todo list",
+            "image": "URL"
+        },
+        {
+            "name": "Add Up ",
+            "github": "https://ntandomabuto.github.io/addup/",
+            "vercel": "https://addup-zeta.vercel.app/",
+            "description": "I used html and css for the add up, the user puts in an array in the input tag and the numbers add up",
+            "image": "URL"
+        },
+        {
+            "name": "Minutes to Seconds Converter",
+            "github": "https://ntandomabuto.github.io/minutestoseconds/",
+            "vercel": "https://minutestoseconds-virid.vercel.app/",
+            "description": "The minutes to seconds converter, I also used html and css and javascript. It converts any minutes into seconds",
+            "image": "URL"
+        },
+        {
+            "name": "Interest Amount ",
+            "github": "https://ntandomabuto.github.io/interestamount/",
+            "vercel": "https://interestamount-six.vercel.app/",
+            "description": "I also used used the three languages I learnt for this, it calculates the interest of the amount of your choice",
+            "image": "URL"
+        },
+        {
+            "name": "Hex to RGB ",
+            "github": "https://ntandomabuto.github.io/hextorgb/",
+            "vercel": "https://hextorgb-beta.vercel.app/",
+            "description": "Hex and rgb are the numbers written for colors, hex has six values but rgb has 3, this one converts the hex into rgb",
+            "image": "URL"
+        },
+        {
+            "name": "Age to Days",
+            "github": "https://ntandomabuto.github.io/agetodays/",
+            "vercel": "https://agetodays-rho.vercel.app/",
+            "description": "",
+            "image": "URL"
+        }
+    ],
+    "education":[
+        {
+            "description":"Currently at the Life Choices Academy, graduated from high school in 2022 with a Bachelor pass",
+            "year":"2 April - to present",
+            "insititution":"",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "contactDetails":""
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        }
+    ],
+    "workExperience":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":{
+                "name":"",
+                "cell":"",
+                "position":""
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL",
+            "number":"6testimonials"
+        }
+    ]
+}
